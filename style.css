@@ -1,0 +1,14 @@
+body {
+    font-family: serif;
+}
+
+.auto {
+    width: 500px;
+    height: auto;
+}
+
+.list {
+    font-weight: bold;
+    background-color: yellowgreen;
+    width: 460px;
+}
