@@ -1,14 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Lora:wght@400;700&display=swap');
+
 body {
     font-family: serif;
-}
+   }
 
-.auto {
+h1 {
+    display: block;
+    box-sizing: border-box;
+    width: 500px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+     
+}
+img {
     width: 500px;
     height: auto;
 }
 
-.list {
+
+ul {
     font-weight: bold;
-    background-color: yellowgreen;
-    width: 460px;
+    background-color: white;
+    padding: 0;
+    
 }
+
+li {
+    display: block;
+    box-sizing: border-box;
+    background-color: #C49A6C;
+    padding: 10px;
+    margin: 0px;
+    margin-top: 5px;
+    width: 500px;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    font-family: Lora, serif;
+    }
